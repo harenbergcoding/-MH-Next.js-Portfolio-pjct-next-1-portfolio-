@@ -1,4 +1,5 @@
 import Head from 'next/head';
+
 import Navbar from '../components/Navbar';
 
 function Portfolio() {
@@ -17,7 +18,7 @@ function Portfolio() {
               Portfolio
             </h1>
             <p className="description">
-              Incididunt in cillum magna occaecat nisi qui in.
+              Amazing projects loading...
             </p>
 
             <div className="portfolio-wrapper">

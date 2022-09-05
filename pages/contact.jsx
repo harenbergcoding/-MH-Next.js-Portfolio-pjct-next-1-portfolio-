@@ -1,4 +1,5 @@
 import Head from 'next/head';
+
 import Navbar from '../components/Navbar';
 
 function Contact() {
@@ -14,15 +15,14 @@ function Contact() {
         <div className="container">
           <div className="text-wrapper w-full">
             <h1 data-cy="pageTitle" className="title">
-              Contact
+              Contact Me
             </h1>
             <p className="description">
-              Incididunt in cillum magna occaecat nisi qui in exercitation
-              labore anim adipisicing amet irure tempor.
+              Reach out to me if you want to leave any feedback!
             </p>
             <ul className="contact-links">
-              <li className="contact-item">Email: lutfhi@me.com</li>
-              <li className="contact-item">Phone: +6212344321007</li>
+              <li className="contact-item">Email: michaelharenberg.bsc@gmail.com</li>
+              <li className="contact-item">Phone: +4369915071581</li>
             </ul>
           </div>
         </div>
